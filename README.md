@@ -4,7 +4,7 @@
 
 A Procedural Pixellized 2D Textures Generator in Rust
 
-<img src="./assets/Lioriodendron_0_1_0.png" />
+<img src="./assets/Liriodendron_0_1_0.png" />
 
 </div>
 
