@@ -1,4 +1,4 @@
-# Lioriodendron
+# Liriodendron
 
 <div align="center">
 
@@ -23,3 +23,18 @@ FLAGS:
     -u, --userinterface    Uses terminal to edit grids and generate textures
     -V, --version          Prints version information
 ```
+
+## Features
+
+ - Editable Grid
+ - Body Pixel Brush action
+ - Border Pixel Brush action
+ - Body-Border Pixel Brush action
+ - Bordy-Empty Pixel Brush action
+ - Specific Color Pixel Brush action
+ - Eraser
+ - Specific Color Pixel Setter
+ - Generation Number Setter
+ - Grid Size Setters
+ - Multi-threaded textures generation
+ - Textures generation waiting queue
