@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["TRANSPARENT_PIXEL",""]],"mod":[["palette","Module for colors generation"]],"struct":[["Generation","Task which builds a directory and generate textures inside"]]});

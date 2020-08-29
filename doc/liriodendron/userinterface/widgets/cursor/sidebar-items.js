@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CursorWidget","Widget to render a blinking cursor"]]});

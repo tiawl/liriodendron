@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Cursor","A numeric cursor which encapsulates shared functions between Setter sub-structs"],["StringCursor","An alphabetic cursor which encapsulates shared functions between Setter sub-structs"]],"trait":[["Setter",""]]});

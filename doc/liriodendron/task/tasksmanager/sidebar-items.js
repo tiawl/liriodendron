@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["TASKS_QUEUE_FULL",""]],"struct":[["TasksManager","Multi-threaded struct to support expensive users queries and avoid blocking tasks"]]});

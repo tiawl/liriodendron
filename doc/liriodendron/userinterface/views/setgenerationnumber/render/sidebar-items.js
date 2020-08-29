@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["EXTRA_SPACES",""],["LARGER_ROW",""],["NUMBER_BOX_HEIGHT",""],["TEXT_HEIGHT",""],["WIN_HEIGHT",""],["WIN_WIDTH",""]],"fn":[["render",""]]});

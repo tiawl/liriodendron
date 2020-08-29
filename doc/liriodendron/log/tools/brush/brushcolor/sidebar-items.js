@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BrushColor","Represents a customizable and usable color with brush tool"]]});

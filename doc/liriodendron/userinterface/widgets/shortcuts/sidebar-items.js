@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["ACTIONS_AREA_WIDTH",""],["KEYBOARD_AREA_WIDTH",""],["VERTICAL_BAR",""]],"struct":[["ShortcutsWidget","Widget to render shortcuts' instructions area"]]});

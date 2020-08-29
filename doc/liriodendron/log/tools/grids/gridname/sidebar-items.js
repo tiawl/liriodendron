@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GridName","Represents a customizable name for a grid"]]});

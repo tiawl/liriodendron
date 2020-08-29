@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["finish",""],["init",""]],"mod":[["errors",""],["events",""],["views","Module for rendering and events catching of the different views"],["widgets","Module for tui-rs Widget sub-structs"]],"struct":[["UserInterface",""]]});

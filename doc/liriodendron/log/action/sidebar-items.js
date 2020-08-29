@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Action","Represents a user action"]]});

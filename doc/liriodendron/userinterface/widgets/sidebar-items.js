@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BORDERS",""],["EMPTY_SPACES",""],["RGB_SUM_DIVIDED_BY_2",""]],"mod":[["brushselector",""],["cursor",""],["gauge",""],["grid",""],["querierpopup",""],["scroller",""],["selectorpopup",""],["shortcuts",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["generation","Module for generation tasks"],["tasksmanager","Module for threads and user's tasks management"]],"trait":[["Task",""]]});

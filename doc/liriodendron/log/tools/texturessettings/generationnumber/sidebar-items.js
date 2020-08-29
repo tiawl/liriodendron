@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GenerationNumber","Represents a customizable number of generated textures"]]});

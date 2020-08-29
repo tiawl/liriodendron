@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["liriodendron"] = [{"text":"impl StructOpt for <a class=\"struct\" href=\"liriodendron/args/struct.Args.html\" title=\"struct liriodendron::args::Args\">Args</a>","synthetic":false,"types":["liriodendron::args::Args"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

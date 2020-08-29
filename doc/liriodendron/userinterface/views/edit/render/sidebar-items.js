@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["NB_BRUSH_SHORTCUTS",""],["NB_GENERAL_SHORTCUTS",""],["NB_GRID_SHORTCUTS",""],["NB_WORKSPACE_SHORTCUTS",""],["SHORTCUTS_AREAS",""]],"fn":[["render",""],["render_map_gauge",""],["render_shortcuts",""],["render_tasks_gauge",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["brushcolor","Module to set and check color member of the brush"]],"struct":[["Brush","Represent brush tool"]]});

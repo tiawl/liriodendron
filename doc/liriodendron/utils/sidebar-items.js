@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FullPixel","Possible content for a filled cell"]]});

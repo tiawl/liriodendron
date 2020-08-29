@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["LIGHT_GREY",""],["TAB_WIDTH",""]],"struct":[["GridWidget","Widget to render a colorizable grid"]]});

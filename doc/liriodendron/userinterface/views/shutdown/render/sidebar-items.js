@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["EXTRA_SPACES",""],["GAUGE_NUMBERS",""],["LARGER_ROW",""],["MAX_WIN_HEIGHT",""],["TEXT_HEIGHT",""],["WIN_WIDTH",""]],"fn":[["render",""],["render_borders",""],["render_gauges",""],["render_text",""]]});
