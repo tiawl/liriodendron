@@ -10,10 +10,10 @@ Edit View:
 Parametric View:
 <img src="./assets/Liriodendron_parametricview_0_2_0.png" />
 
-1 grid generations:
+1 grid generations:</br>
 <img src="./assets/1gridtextures.png" />
 
-2 grids generations:
+2 grids generations:</br>
 <img src="./assets/composedtextures.png" />
 
 </div>
