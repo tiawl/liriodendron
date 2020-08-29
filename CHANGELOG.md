@@ -15,7 +15,37 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## 0.1.0 - 2020-08-11
+## 0.2.0 -
 
-Initial release!
+### Added
 
+ - Customizable threads number command
+ - Customizable maximum waiting tasks command
+ - Customizable maximum log actions command
+ - Customizable maximum grids capacity command
+ - Customizable ratio for BodyEmpty pixel
+ - Customizable ratio for BodyBorder pixel
+ - Clear Grid shortcut
+ - Undo shortcut
+ - Redo shortcut
+ - Customizable texture format
+ - Customizable Pixels-Cell ratio
+ - Add Grid shortcut
+ - Delete Grid shortcut
+ - Switch grid tab shortcut
+ - Switch grid order shortcut
+ - Rename Grid shortcut
+ - Parameters view
+
+### Fixed
+
+ - TasksManager can't shutdown its threadpool before the last thread ends.
+ - Log doesn't overflow again after a decrementor/incrementor action.
+ - Grid position for an odd terminal width doesn't pass over the workspace
+block.
+ - Grid position for an even terminal height doesn't pass over the workspace
+block.
+
+## 0.1.0 - 2020-08-12
+
+Initial release
